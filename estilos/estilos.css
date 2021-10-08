@@ -11,7 +11,7 @@ h1{
     text-align: center;
 }
 body{
-    background: rgb(240, 149, 228);
+    background: rgba(221, 181, 5, 0.808);
 }
 
 .container__card{
@@ -75,6 +75,7 @@ body{
     align-items: center;
     color: #fff;
     transform: translateZ(60px);
+    
 }
 
 .bg{
